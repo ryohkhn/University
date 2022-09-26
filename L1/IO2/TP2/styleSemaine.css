@@ -1,0 +1,17 @@
+body{
+    background-color: palegreen;
+}
+
+p{
+    background-color: papayawhip;
+}
+
+.ab{
+    font-size: xx-large;
+}
+
+a{
+    color: dimgray;
+    text-decoration: none;
+    font-size: large;
+}

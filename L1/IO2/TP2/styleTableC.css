@@ -1,0 +1,36 @@
+table{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+td{
+    border-width: 50%;
+    border-style: solid;
+    border-color: black;
+}
+
+#jaune{
+    background-color: yellow;
+    color: black;
+}
+
+.orange{
+    background-color: orange;
+    color: black;
+}
+
+.rouge{
+    background-color: red;
+    color: white;
+}
+
+.vert{
+    background-color: green;
+    color: orange;
+}
+
+.gris{
+    background-color: grey;
+    color: black;
+}

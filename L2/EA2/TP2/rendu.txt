@@ -1,0 +1,18 @@
+Exercice 1 question 1:
+
+La courbe de temps d'éxecution de fibo_1 est élevée pour des petites valeurs de n, on remarque qu'elle se rapproche de la fonction témoin n.
+Par contre sur des plus grandes valeurs on remarque que la courbe se rapproche de celle de n² normalisée.
+
+Exercice 1 question 2:
+
+Pour fibo_1_adds la courbe du nombre d'additions correspond à celle du temps d'éxecution.
+Pour fibo_2_adds et fibo_3_adds cependant on remarque une courbe presque linéaire que celle du temps d'éxecution
+
+Exercice 1 question 5:
+
+fibo_1_bits se rapproche de la courbre normalisée de x*phi**x, qui correspond à une utilisation naïve de la récursion qui effectuerait phi**n additions
+fibo_2_bits et fibo_3_bits se rapproche de celle de x**2 renormalisée, qui se rapproche des n additions pour un calcul itératif des n premières valeurs
+
+Exercice 2 question 2:
+
+fibo_4 se rapproche de la courbe normalisée de x**log2(3)

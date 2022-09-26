@@ -1,0 +1,7 @@
+.idea
+out/
+*.iml
+__pycache__/
+cmake-build-debug/
+.gradle/
+CMakeLists.txt

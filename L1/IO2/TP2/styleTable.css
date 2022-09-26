@@ -1,0 +1,29 @@
+caption{
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+table{
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+td{
+    border-width: 50%;
+    border-style: solid;
+}
+
+thead{
+    font-weight: bold;
+    color: blue;
+}
+
+tfoot{
+    color: red;
+}
+
+tr{
+    margin-bottom: 5%;
+}
